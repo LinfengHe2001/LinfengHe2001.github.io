@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-*Education
+#Education
 ======
 * M.S. in Duke, Duke University, 2026
 * B.S. in ChongQing, ChongQing University, 2023
 
-*Internship experience
+#Internship experience
 ======
 * Summer 2024: Back End Engineer
   * Meituan
   * Service Resource Scheduling Research & Develop 
   
-*Skills
+#Skills
 ======
 * Skill 1
 * Skill 2
