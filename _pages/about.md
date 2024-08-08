@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linfeng He"
+title: "He Linfeng"
 author_profile: true
 redirect_from: 
   - /about/
