@@ -8,7 +8,7 @@ package installation, or additional hosting service is needed for the homepage.
 
 Profile information was updated from the owner's OpenReview screenshots on
 2026-10-11. Duke is described as master's studies rather than asserting a
-completed degree. The preferred contact address is lh426@duke.edu.
+completed degree. The preferred contact address is helinfeng@bigai.ai.
 Google Scholar and LinkedIn are linked without importing unverified content.
 The supplied Wikipedia URL returned 404 and is omitted until available.
 Birth date and other account-only details are not published.
